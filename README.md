@@ -4,7 +4,7 @@
 
 ## I'm a , freelancer web developer !!
 
-<div style="display:flex">
+<div style="display:flex;justify-content:center;align-items:center">
 <div>
 - 🌱 I’m currently learning Typescript 
 
