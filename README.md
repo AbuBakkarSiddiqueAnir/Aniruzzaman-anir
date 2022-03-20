@@ -7,6 +7,7 @@
 <div style="display:flex">
 <div>
 - 🌱 I’m currently learning Typescript 
+
 - 🥅 2022 Goals: Learn about networking.        
 </div>
 <img style="width:380px;height:220px" src="./img/code.gif" style="padding-right:10px;" />
