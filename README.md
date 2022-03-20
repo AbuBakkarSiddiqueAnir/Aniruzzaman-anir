@@ -4,7 +4,7 @@
 
 ## I'm a , freelancer web developer !!
 
-<div style="dislay:flex">
+<div style="display:flex">
 <div>
 - 🌱 I’m currently learning Typescript 
 - 🥅 2022 Goals: Learn about networking.        
