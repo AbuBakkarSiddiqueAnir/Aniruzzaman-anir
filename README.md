@@ -35,7 +35,7 @@
 <br />
 <br />
 
-
+<video src="./img/code.gif"></video>
 
   <summary>:zap: GitHub Stats</summary>
 
