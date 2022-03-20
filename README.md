@@ -2,7 +2,7 @@
 
 
 
-## I'm a , freelancer web developer !!
+## I'm a , Self taught full stack software developer !!
 
 
 
