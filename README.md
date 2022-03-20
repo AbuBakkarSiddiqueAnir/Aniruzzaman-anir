@@ -4,11 +4,13 @@
 
 ## I'm a , freelancer web developer !!
 
-
+<div style="dislay:flex">
+<div>
 - 🌱 I’m currently learning Typescript 
-- 🥅 2022 Goals: Learn about networking. <img style="width:380px;height:220px" src="./img/code.gif" style="padding-right:10px;" />
-
-
+- 🥅 2022 Goals: Learn about networking.        
+</div>
+<img style="width:380px;height:220px" src="./img/code.gif" style="padding-right:10px;" />
+</div>
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/anirruzzaman-anir-4046ba143#gh-light-mode-only)
