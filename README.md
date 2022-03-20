@@ -10,8 +10,10 @@
   <tr>
     <td valign="top">
     
-    - 🌱 I’m currently learning Typescript
-         >graphQl
+    - 🌱 I’m currently learning 
+         > Typescript
+         > graphQl
+         > Sanity
 
     - 🥅 2022 Goals: Learn about networking.        
 
