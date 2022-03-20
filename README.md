@@ -8,14 +8,17 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+    <td valign="top">
+    
+    - 🌱 I’m currently learning Typescript 
+
+    - 🥅 2022 Goals: Learn about networking.        
+
+ </td>
     <td valign="top"><img style="width:380px;height:220px" src="./img/code.gif" style="padding-right:10px;" /></td>
   </tr>
 </table>
 
-- 🌱 I’m currently learning Typescript 
-
-- 🥅 2022 Goals: Learn about networking.        
 
 
 
