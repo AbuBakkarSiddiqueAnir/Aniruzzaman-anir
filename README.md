@@ -12,6 +12,7 @@
 </div>
 <img style="width:380px;height:220px" src="./img/code.gif" style="padding-right:10px;" />
 </div>
+
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/anirruzzaman-anir-4046ba143#gh-light-mode-only)
