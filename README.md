@@ -2,11 +2,11 @@
 
 
 
-## I'm a Physics student, freelancer web developer !!
+## I'm a , freelancer web developer !!
 
 
-- 🌱 I’m currently learning design patters in js 🤣
-- 🥅 2022 Goals: Learn about the basic networking more of javascript
+- 🌱 I’m currently learning Typescript 
+- 🥅 2022 Goals: Learn about networking.
 
 
 ### Connect with me:
@@ -33,8 +33,7 @@
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="vue" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;"/>
-<br />
-<br />
+
 
 
 
