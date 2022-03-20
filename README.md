@@ -2,11 +2,11 @@
 
 
 
-## I'm a , Self taught full stack software developer !!
+## I'm a , self taught full stack software developer !!
 
 
 
-<table>
+<table style="border:none">
   <tr>
     <td valign="top">
     
