@@ -10,7 +10,8 @@
   <tr>
     <td valign="top">
     
-    - 🌱 I’m currently learning Typescript 
+    - 🌱 I’m currently learning Typescript
+         >graphQl
 
     - 🥅 2022 Goals: Learn about networking.        
 
