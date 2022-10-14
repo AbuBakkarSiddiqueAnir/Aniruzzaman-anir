@@ -21,9 +21,7 @@
 </table>
 
     - 🌱 I’m currently learning 
-         > Typescript
-         > graphQl
-         > Sanity
+         > python
 
     - 🥅 2022 Goals: Learn about networking.        
 
